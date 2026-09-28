@@ -7,7 +7,7 @@
 ---
 
 ## 🚧 Code Release in Progress
-The QEMU platform and kernel modules will be open-sourced in this repository by late October 2026.
+The platform, kernel modules and testing environment will be open-sourced in this repository by late October 2026.
 
 ## 📄 Paper
 Read the full publication here: [ACM Digital Library](https://dl.acm.org/doi/10.1145/3831664.3837789).
